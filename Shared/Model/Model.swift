@@ -136,7 +136,7 @@ extension Model {
 // MARK: - Store API
 
 extension Model {
-    static let unlockAllRecipesIdentifier = "com.example.apple-samplecode.fruta.unlock-recipes"
+    static let unlockAllRecipesIdentifier = "com.katnakagawa.apple-samplecode.fruta.unlock-recipes"
     
     func product(for identifier: String) -> Product? {
         return fetchedProducts.first(where: { $0.id == identifier })

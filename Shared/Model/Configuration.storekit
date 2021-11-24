@@ -20,7 +20,7 @@
           "locale" : "ru"
         }
       ],
-      "productID" : "com.example.apple-samplecode.fruta.unlock-recipes",
+      "productID" : "com.katnakagawa.apple-samplecode.fruta.unlock-recipes",
       "referenceName" : "Unlock All Recipes",
       "type" : "NonConsumable"
     }
